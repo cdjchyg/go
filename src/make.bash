@@ -74,7 +74,7 @@
 # We still check $HOME/go1.4 to allow for build scripts that still hard-code
 # that name even though they put newer Go toolchains there.
 
-bootgo=1.20.6
+# bootgo=1.20.6
 
 set -e
 
